@@ -1,2 +1,10 @@
-# DWFE-2081423-Projeto1
-Projeto de Front-End
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
